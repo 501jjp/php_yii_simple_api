@@ -1,5 +1,5 @@
 # yii框架api简单的实现
-<script> console.log("fuck");</script>
+
 ## 一
 ### (1)
 先打开apache的路由重写
